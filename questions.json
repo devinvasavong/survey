@@ -1,0 +1,17 @@
+[
+    {
+        "question": "When was RIT founded?",
+        "options": ["1829", "1839", "1849", "1859"],
+        "answer": "1839"
+    },
+    {
+        "question": "How many global campuses does RIT have?",
+        "options": ["4", "5", "3", "2"],
+        "answer": "5"
+    },
+    {
+        "question": "When did we move to Henrietta?",
+        "options": ["1971", "1969", "1970", "1968"],
+        "answer": "1968"
+    }
+]
